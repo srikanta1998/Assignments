@@ -37,16 +37,16 @@ class Cars
 			System.out.println("This is Petrol Car");
 			break;
 		case disel :
-			System.out.println("");
+			System.out.println("This is Disel Car");
 			break;
 		case electric :
-			System.out.println("");
+			System.out.println("This is Electric Car");
 			break;
 		case hydrogen :
-			System.out.println("");
+			System.out.println("This is Hydrogen Car");
 			break;
 		case hybrid :
-			System.out.println("");
+			System.out.println("This is Hybrid Car");
 			break;
 		}
 	}
